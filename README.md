@@ -1,4 +1,4 @@
-# Plant-Propagation-Algorithm-TSP
+# Plant-Propagation-Algorithm for Travelling Salesman Problem (TSP)
 Implementation of Travelling Salesman Problem using Plant Propagation Algorithm
 
 Strawberry Plant Propagation
